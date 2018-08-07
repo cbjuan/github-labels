@@ -40,6 +40,11 @@
     "description": ""
   },
   {
+    "name": "status: WIP / waiting",
+    "color": "1ea3a8",
+    "description": "This pull request is not ready for a review"
+  },
+  {
     "name": "status: duplicate",
     "color": "cfd3d7",
     "description": "This issue or pull request already exists"
